@@ -1,2 +1,2 @@
 # Pomodoro Timer
-Thinkful Project
+Timer application based on the Pomodoro technique for people working or studying
